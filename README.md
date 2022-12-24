@@ -25,6 +25,18 @@ You can create your business card personal visiting card and share with your fri
 
 ￼___
 
+## Internal Info
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `mobile` | `int` | **Required**. Get OTP for verification |
+| `password` | `string` | **Required**. login with web |
+| `uid` | `string` | **Required**. Internal use case for user |
+| `user-name` | `string` | **Required**. To create Business Card |
+| `business-pic` | `string` | **Required**. Brand Logo |
+
+
+
 ## About Me
 Jogendra Singh
 contact@uzg19.com
